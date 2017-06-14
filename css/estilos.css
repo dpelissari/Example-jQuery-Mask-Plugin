@@ -1,0 +1,13 @@
+/*Formatação do formulario de cadastro*/
+
+#formulario_cadastro
+{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+/*Fim formatação do formulario de cadastro*/
+
+#botoes_form{
+    margin-left: 350px;
+}
